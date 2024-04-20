@@ -1,10 +1,10 @@
-# Fahrnheit to Celsius Converter
+# Fahrenheit to Celsius Converter
 
 This simple tool converts temperature from Fahrenheit to Celsius.
 
 ## Usage
 
-To use this simple converter, you need to input the temperature in Fahreneheit and press *enter*. After you press enter, equivalent temperature in Celsius will be displayed.
+To use this simple converter, you need to input the temperature in Fahrenheit and press *enter*. After you press enter, equivalent temperature in Celsius will be displayed.
 
 ## Formula
 
